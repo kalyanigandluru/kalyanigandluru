@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm Kalyani
+
 🌱 I’m currently learning Selenium
+
+📫 How to reach me: kalyanigandluru@gmail.com
 <!--
 **kalyanigandluru/kalyanigandluru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
